@@ -1,0 +1,13 @@
+.generator {
+	margin-top: 2%;
+	}
+
+body {
+	background-color: #000;
+	background-image: url("bg.jpg");
+	background-size: cover;
+	background-position: top center;
+	color: white;
+	font-family: cursive;
+	font-size: 18px;
+}
